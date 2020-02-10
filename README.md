@@ -9,7 +9,7 @@
 5. State e Imutabilidade.
 6. Propriedades de componentes React(e a transferência de objetos, functions e componentes via propriedade).
 
-<h2>Enunciado do projeto</h2>
+<h2>Enunciado do projeto:</h2>
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
