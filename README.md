@@ -14,6 +14,7 @@
 5. State e Imutabilidade.
 6. Propriedades de componentes React(e a transferência de objetos, functions e componentes via propriedade).
 
+<<<<<<< HEAD
 ## 2. Iniciando o projeto
 
 ```
@@ -22,6 +23,9 @@ yarn dev:   "webpack-dev-server --mode development"
 ```
 
 ## 3. Enunciado do projeto
+=======
+<h2>Enunciado do projeto:</h2>
+>>>>>>> 855f969156ab1db3e90c31bece62e6c474291ccb
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
@@ -63,7 +67,7 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ### Tela da aplicação
 
-![Facebook](.github/facebook.png)
+![Facebook](https://github.com/MaisDennis/GoStack10.0-Desafio-04/blob/master/src/assets/facebook.png)
 
 O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
@@ -75,7 +79,7 @@ O layout da aplicação está [nesse link](.github/layout.sketch) que pode ser a
 
 Na imagem abaixo destaquei cada componente que você criará e abaixo da imagem está a descrição e responsabilidades de cada um:
 
-![Componentes](.github/components.png)
+![Componentes](https://github.com/MaisDennis/GoStack10.0-Desafio-04/blob/master/src/assets/components.png)
 
 **Header (Amarelo):** Responsável por exibir a logo e o link para acessar o perfil;
 
