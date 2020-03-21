@@ -1,6 +1,11 @@
-<h1>GoStack10.0-Desafio-04</h1>
-</br>
-<h2>Conceitos abordados:</h2>
+# GoStack10.0 || Desafio 04
+
+* [1. Conceitos abordados](#1-conceitos-abordados)
+* [2. Iniciando o Projeto](#3-iniciando-o-projeto)
+* [3. Enunciado do Projeto](#4-enunciado-do-projeto)
+* [4. Criando o projeto](#5-criando-o-projeto)
+
+##  1. Conceitos abordados
 
 1. Configuração de React, Babel, Webpack.
 2. Utlização de JSX.
@@ -9,7 +14,14 @@
 5. State e Imutabilidade.
 6. Propriedades de componentes React(e a transferência de objetos, functions e componentes via propriedade).
 
-<h2>Enunciado do projeto</h2>
+## 2. Iniciando o projeto
+
+```
+yarn build: "webpack --mode production",
+yarn dev:   "webpack-dev-server --mode development"
+```
+
+## 3. Enunciado do projeto
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
@@ -125,7 +137,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
 
-<h2>Criação do projeto:</h2>
+## 4. Criando o projeto
 
 1. Configurando a estrutura:
    1. Dentro da pasta: 
