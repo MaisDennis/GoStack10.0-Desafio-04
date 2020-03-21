@@ -14,7 +14,6 @@
 5. State e Imutabilidade.
 6. Propriedades de componentes React(e a transferência de objetos, functions e componentes via propriedade).
 
-<<<<<<< HEAD
 ## 2. Iniciando o projeto
 
 ```
@@ -23,9 +22,6 @@ yarn dev:   "webpack-dev-server --mode development"
 ```
 
 ## 3. Enunciado do projeto
-=======
-<h2>Enunciado do projeto:</h2>
->>>>>>> 855f969156ab1db3e90c31bece62e6c474291ccb
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
